@@ -1,6 +1,6 @@
 	<?php
 $title = "Index";
-$currentPage = 'Index'; 
+
 ?>
 	<?php include 'header.php';?>
 	

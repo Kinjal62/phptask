@@ -1,6 +1,6 @@
 <?php
 $title = "About";
-$currentPage = 'About'; 
+
 ?>
 <?php include 'header.php';?>
 <div>

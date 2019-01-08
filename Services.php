@@ -1,6 +1,6 @@
 <?php
 $title = "Services";
-$currentPage = 'Services'; 
+ 
 ?>
 <?php include 'header.php';?>
 <div>
